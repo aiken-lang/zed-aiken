@@ -1,0 +1,7 @@
+[
+  {
+    "label": "aiken check",
+    "command": "aiken",
+    "args": ["check"]
+  }
+]
