@@ -1,7 +1,12 @@
 [
-  {
-    "label": "aiken check",
-    "command": "aiken",
-    "args": ["check"]
-  }
+    {
+        "label": "aiken check",
+        "command": "aiken",
+        "args": ["check"]
+    },
+    {
+        "label": "aiken build",
+        "command": "aiken",
+        "args": ["build"]
+    }
 ]

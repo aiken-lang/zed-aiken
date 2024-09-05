@@ -1,6 +1,6 @@
 id = "aiken"
 name = "Aiken"
-version = "0.0.1"
+version = "1.0.0"
 schema_version = 1
 authors = ["Lucas Rosa <x@rvcas.dev>"]
 description = "Aiken language support for Zed"
@@ -8,7 +8,7 @@ repository = "https://github.com/aiken-lang/zed-aiken"
 
 [grammars.aiken]
 repository = "https://github.com/aiken-lang/tree-sitter-aiken"
-commit = "aa7ebdda5940c4481389e3e804346e41cabb4266"
+commit = "229c5fa484468e0fd13f6264710a7f6cbb7436f1"
 
 [language_servers.aiken]
 language = "Aiken"

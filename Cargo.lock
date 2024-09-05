@@ -305,7 +305,7 @@ dependencies = [
 
 [[package]]
 name = "zed_aiken"
-version = "0.0.1"
+version = "1.0.0"
 dependencies = [
  "zed_extension_api",
 ]

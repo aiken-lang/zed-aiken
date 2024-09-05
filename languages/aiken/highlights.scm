@@ -4,6 +4,8 @@
 (type_struct) @type
 (constant) @constant
 (validator) @function.special
+(validator_hook) @function
+(validator_fallback) @function
 (test) @function.test
 (identifier) @variable
 (type_identifier) @type
